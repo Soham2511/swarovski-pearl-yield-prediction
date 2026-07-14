@@ -1,0 +1,9 @@
+{
+    "model": "LightGBM",
+    "held_out_test_performance": {
+        "R2": 0.6601,
+        "MAE": 7.9452,
+        "RMSE": 10.5418,
+        "MAPE_percent": 12.7193
+    }
+}
